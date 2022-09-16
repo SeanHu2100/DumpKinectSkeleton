@@ -14,6 +14,6 @@ Added automatic capture and video recording functions, support:
 You can find examples at this path:
 \DumpKinectSkeleton\bin\Debug
 
-The image format is PNG File (.png)
-The video format is AVI File (.avi)
+The image format is PNG File (.png).
+The video format is AVI File (.avi).
 Of course, you can modify them to the file type you need.
